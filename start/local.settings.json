@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=cloudshell1081230624;AccountKey=FJxqHSewD5qZKDNTzducbA7NxONgwH+8gE3r0VmXDECRBQzNnqM8ONZ1kr7c/pPS5wKyKQzJQ+o9+ASt/mYhkA==;BlobEndpoint=https://cloudshell1081230624.blob.core.windows.net/;FileEndpoint=https://cloudshell1081230624.file.core.windows.net/;QueueEndpoint=https://cloudshell1081230624.queue.core.windows.net/;TableEndpoint=https://cloudshell1081230624.table.core.windows.net/",
+        "AzureCosmosDBConnectionString": "AccountEndpoint=https://msl-sigr-cosmos-515b62e63a.documents.azure.com:443/;AccountKey=YVa2qVPYYVOROvk5v0Uo7aLbcS6mZK2EwuZRLOvJDi6IM47J4hmoWLxyBBCbNiPUEKZjazRgE7iwACDbEvwwVw==;",
+        "AzureCosmosDBMasterKey": "YVa2qVPYYVOROvk5v0Uo7aLbcS6mZK2EwuZRLOvJDi6IM47J4hmoWLxyBBCbNiPUEKZjazRgE7iwACDbEvwwVw==",
+        "AzureSignalRConnectionString": "<SIGNALR_CONNECTION_STRING>",
+        "FUNCTIONS_WORKER_RUNTIME": "node"
+    },
+    "Host": {
+        "LocalHttpPort": 7071,
+        "CORS": "http://localhost:8080",
+        "CORSCredentials": true
+    }
+}
